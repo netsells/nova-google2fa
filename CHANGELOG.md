@@ -16,4 +16,4 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 * [1.1.3](#400---2021-04-13) - Fixes tag issue
 * [1.1.4](#400---2021-04-14) - Updates views
 * [1.1.5](#400---2021-04-23) - Fixes bug in google 2fa middleware cache prevention
-
+* [1.2.0](#400---2021-06-04) - Enables optional use of 2fa along with option to display a numeric code as well as a QR code
